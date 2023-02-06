@@ -4,7 +4,7 @@ const Footer = () => {
    return (
     <footer>
         <a
-        href='https://github.com/KatyRosli'
+        href='https://github.com/KatyRosli/FullStack-BootcampList'
         target="_blank"
         rel="noopener noreferrer"
         className="github"
